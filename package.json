@@ -1,0 +1,9 @@
+{
+  "name": "healci-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HealCI demo — a small Node app with a passing CI (Standard template).",
+  "scripts": {
+    "test": "node --test"
+  }
+}
